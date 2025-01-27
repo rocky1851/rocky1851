@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi! I'm Atharva, a medical student eager to learn programming. I'm particularly interested in Machine Learning and its applications in healthcare. 
+
+**Currently Learning:**
+
+* Programming Fundamentals
+* Machine Learning Basics
+
+I'm always open to learning and collaborating!
+
 <!--
 **rocky1851/rocky1851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
